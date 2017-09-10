@@ -10,7 +10,6 @@ down
 right
 right
 right
-right
 up
 up
 up
@@ -19,6 +18,5 @@ up
 right
 right
 right
-down
 down
 down
