@@ -1,5 +1,5 @@
 recipe move
-| step=0 
+| save 0 as step 
 | repeat If step < number of steps
 | go orientation
 | step +1
