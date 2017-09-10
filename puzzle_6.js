@@ -4,12 +4,12 @@ if getcolor is red
 | up
 | up
 | up
-save up as direction
+|save up as direction
 else
 | down
 | down
 | down
-save down as direction
+|save down as direction
 getcolor
 if getcolor is red
 | left
