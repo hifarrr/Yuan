@@ -1,6 +1,5 @@
-sequence =0
+save sequence as 0
 recipe Move
-| sequence <5
 | repeat if colour is not red and sequence is even
 | down
 | else
